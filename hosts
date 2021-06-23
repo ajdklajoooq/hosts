@@ -1,0 +1,129 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+127.0.0.1 www.bing.com
+127.0.0.1 duckduckgo.com
+127.0.0.1 9gag.com
+127.0.0.1 findx.com
+127.0.0.1 infospace.com
+127.0.0.1 info.com
+127.0.0.1 lycos.com
+127.0.0.1 metacrawler.com
+127.0.0.1 aol.com
+127.0.0.1 discretesearch.com
+127.0.0.1 givero.com
+127.0.0.1 gigablast.com
+127.0.0.1 peekier.com
+127.0.0.1 myconfinedspace.com
+127.0.0.1 mojeek.com
+127.0.0.1 tumbex.com
+127.0.0.1 oscobo.com
+127.0.0.1 dogpile.com
+127.0.0.1 swisscows.com
+127.0.0.1 entireweb.com
+127.0.0.1 baidu.com
+127.0.0.1 4chan.com
+127.0.0.1 searx.laquadrature.net
+127.0.0.1 images.search.yahoo.com
+127.0.0.1 dk.images.search.yahoo.com
+127.0.0.1 metager.de
+127.0.0.1 twitter.com
+127.0.0.1 lukol.com
+127.0.0.1 yippy.com
+127.0.0.1 searx.cme
+127.0.0.1 qwant.com
+127.0.0.1 ecosia.org
+127.0.0.1 givewater.com
+127.0.0.1 searchencrypt.com
+127.0.0.1 startpage.com
+127.0.0.1 one-search.com
+127.0.0.1 yahoo.search.com
+127.0.0.1 hoty.pl
+127.0.0.1 twitac.com
+127.0.0.1 pinterest.com
+127.0.0.1 stweetly.com
+127.0.0.1 reddit.com
+216.239.38.120 www.google.com 
+216.239.38.120 www.google.dk 
+216.239.38.120 www.google.ad
+216.239.38.120 www.google.ae
+216.239.38.120 www.google.af
+216.239.38.120 www.google.ag
+216.239.38.120 www.google.ai
+216.239.38.120 www.google.al
+216.239.38.120 www.google.am
+216.239.38.120 www.google.an
+216.239.38.120 www.google.ao
+216.239.38.120 www.google.aq
+216.239.38.120 www.google.ar
+216.239.38.120 www.google.as
+216.239.38.120 www.google.at
+216.239.38.120 www.google.au
+216.239.38.120 www.google.aw
+216.239.38.120 www.google.az
+216.239.38.120 www.google.ba
+216.239.38.120 www.google.bb
+216.239.38.120 www.google.bd
+216.239.38.120 www.google.be
+216.239.38.120 www.google.bf
+216.239.38.120 www.google.bg
+216.239.38.120 www.google.bh
+216.239.38.120 www.google.bi
+216.239.38.120 www.google.bj
+216.239.38.120 www.google.bm
+216.239.38.120 www.google.bn
+216.239.38.120 www.google.br
+216.239.38.120 www.google.bs
+216.239.38.120 www.google.bt
+216.239.38.120 www.google.bv
+216.239.38.120 www.google.bw
+216.239.38.120 www.google.by
+216.239.38.120 www.google.bz
+216.239.38.120 www.google.ca
+216.239.38.120 www.google.cc
+216.239.38.120 www.google.cf
+216.239.38.120 www.google.cg
+216.239.38.120 www.google.ch
+216.239.38.120 www.google.ci
+216.239.38.120 www.google.ck
+216.239.38.120 www.google.cl
+216.239.38.120 www.google.cm
+216.239.38.120 www.google.cn
+216.239.38.120 www.google.co
+216.239.38.120 www.google.cr
+216.239.38.120 www.google.cs
+216.239.38.120 www.google.cu
+216.239.38.120 www.google.cv
+216.239.38.120 www.google.cx
+216.239.38.120 www.google.cy
+216.239.38.120 www.google.cz
+216.239.38.120 www.google.de
+216.239.38.120 www.google.dj
+216.239.38.120 www.google.do
+216.239.38.120 www.google.dz
+216.239.38.120 www.google.ec
+216.239.38.120 www.google.edu
+216.239.38.120 www.google.ee
+216.239.38.120 www.google.eg
+216.239.38.120 www.google.eh
+216.239.38.120 www.google.er
+216.239.38.120 www.google.es
+216.239.38.120 www.google.et
